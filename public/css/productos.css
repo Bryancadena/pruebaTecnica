@@ -1,0 +1,69 @@
+.table .thead-dark th {
+    color: #fff;
+    background-color: #7b4fd9;
+    border-color: #7b4fd9;
+    text-align: center;
+}
+
+#envios .dataTables_filter, #envios .dataTables_paginate, #envios .dataTables_info {
+  display: none;
+}
+#envios .dataTables_length{
+  width: 50%;
+  float: left;
+  display: none;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #7b4fd9;
+}
+
+
+
+
+legend {
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    padding: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.5rem;
+    line-height: inherit;
+    color: inherit;
+    white-space: normal;
+    padding-bottom: 5%;
+}
+
+
+
+  
+
+
+
+  #btn-badge,#btn-badge1{
+    background-color: #7b4fd9;
+    border-bottom-color: #7b4fd9;
+
+  }
+
+
+
+.badge-light {
+  color: #f3f9ff;
+  background-color: #6262d3;
+}
+.badge{
+  font-size: 80%;
+}
+
+
+
+#list_productos_length{
+  display: none;
+}
+
+
+#cke_7, #cke_10,#cke_15, #cke_20{
+  display: none;
+}
+
